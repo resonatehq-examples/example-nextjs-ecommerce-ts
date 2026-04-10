@@ -7,7 +7,7 @@
     "start": "bun run src/main.ts"
   },
   "dependencies": {
-    "@resonatehq/sdk": "^0.9.6",
+    "@resonatehq/sdk": "^0.10.0",
     "express": "^4.21.0"
   },
   "devDependencies": {
