@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner.png" alt="Next.js E-commerce — Resonate example" />
+</p>
+
 # One-Click Buy with Cancellation Window
 
 A minimal e-commerce checkout workflow demonstrating the one-click buy pattern: start a purchase, open a 5-second cancellation window, then confirm or cancel. Every step is durable — crash the process mid-checkout and restart with the same key, it resumes from where it left off.
